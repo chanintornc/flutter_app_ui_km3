@@ -1,6 +1,6 @@
 # flutter_app_ui_km3
 
-A new Flutter application.
+<img src="https://user-images.githubusercontent.com/5345330/115109717-aca55700-9fa1-11eb-8ce0-15410bf7e558.png" width="300">
 
 ## Getting Started
 
